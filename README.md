@@ -1,2 +1,2 @@
-# projeto_1
- primeiro repositorio
+# projeto estudo
+ primeiro repositorio :)
